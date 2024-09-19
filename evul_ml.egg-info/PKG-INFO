@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: evul-ml
+Version: 0.0.1
+Summary: With evul-ml, you can find the best regression or classification models easily in your machine learning projects.
+Home-page: https://github.com/ahmeterdempmk/evul-ml
+Author: Ahmet Erdem Pamuk
+Author-email: ahmeterdempmkk@gmail.com
+License: Apache License 2.0
+Requires-Dist: sklearn
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: xgboost
